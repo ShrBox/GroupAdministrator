@@ -27,5 +27,5 @@ jobs:
     - name: upload file
       uses: actions/upload-artifact@1.0.0
       with:
-        name: GroupAdministrator-autobuild.jar
+        name: Build
         path: build/libs/GroupAdministrator-0.1.0.jar
