@@ -1,6 +1,6 @@
 name: "GroupAdministrator"
 author: "ShrBox"
-version: "0.1.5"
+version: "1.0.0"
 main: "shrbox.github.groupadmin.GAMain"
 info: "简单的群管插件"
 depends: []

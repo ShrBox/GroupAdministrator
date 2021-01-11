@@ -19,7 +19,7 @@ repositories {
     jcenter()
 }
 
-val miraiCoreVersion = "+" // 1.0-RC
+val miraiCoreVersion = "1.3.0" // 1.0-RC
 val miraiConsoleVersion = "0.5.2" // 0.5.1
 
 dependencies {
